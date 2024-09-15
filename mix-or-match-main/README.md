@@ -1,30 +1,26 @@
-<h1 align="center">Card-Matching Game Using JS</h1>
+<h1>card-matching game using js</h1>
 
-Welcome to **Mix or Match**, a fun and spooky card-matching game built with JavaScript. Test your memory and matching skills while enjoying the Halloween spirit!
+welcome to _mix-o-match_, a fun and spooky card-matching game built with javascript. test your memory and matching skills while enjoying the halloween spirit!
 
-![Screenshot (7)](https://github.com/PranavBawgikar/mix-or-match/assets/102728016/2d2b32ea-4ec6-47fb-a435-ccc84f605c04)
-![Screenshot (8)](https://github.com/PranavBawgikar/mix-or-match/assets/102728016/eafb43ee-e30a-463f-a0b4-7846ba7ef49a)
+![Screenshot (7)](https://private-user-images.githubusercontent.com/102728016/261775019-2d2b32ea-4ec6-47fb-a435-ccc84f605c04.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYzNzg1OTUsIm5iZiI6MTcyNjM3ODI5NSwicGF0aCI6Ii8xMDI3MjgwMTYvMjYxNzc1MDE5LTJkMmIzMmVhLTRlYzYtNDdmYi1hNDM1LWNjYzg0ZjYwNWMwNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkxNVQwNTMxMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04OTE2M2ZhMWY1NWViMmZjMDAzNGI2YzJmMDljMDAwMTk2M2VmZDM2ZjQxOWFiOGIyMTBjNmQ1M2I3NTM0N2UzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.sT3yu6YL6HZV8Sk2OYV5KiN4AjFGp-iVDsuCNF4tS0A)
+![Screenshot (8)](https://private-user-images.githubusercontent.com/102728016/261775129-eafb43ee-e30a-463f-a0b4-7846ba7ef49a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYzNzg1OTUsIm5iZiI6MTcyNjM3ODI5NSwicGF0aCI6Ii8xMDI3MjgwMTYvMjYxNzc1MTI5LWVhZmI0M2VlLWUzMGEtNDYzZi1hMGI0LTc4NDZiYTdlZjQ5YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkxNVQwNTMxMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MmJhOTIyZTJhOTMyNDc4ZGZiOGY1MWNlYzljZDM1NDExYmMxZjU4MGZiNDRmZDAzZjU0ODM4ZDMxOWFiOTYwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.d2W1oD0v_6m1bkk8c8Qw8VMsUbkU_Qx5QpA544iZ14k)
 
 
 
-## How to Play
+## how to play
 
-1. Clone this repository to your local machine using:
+1. clone this repository to your local machine using:
    ```
    git clone https://github.com/your-username/mix-or-match.git
    ```
 
-2. Navigate to the project directory:
+2. navigate to the project directory:
    ```
    cd mix-or-match
    ```
 
-3. Open the `index.html` file in your preferred web browser.
+3. open the `index.html` file in your preferred web browser.
 
-4. Click on the cards to flip them and find matching pairs.
+4. click on the cards to flip them and find matching pairs.
 
-5. Match all the pairs to win the game!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+5. match all the pairs to win the game!
